@@ -1099,7 +1099,7 @@ figcaption p {
 .baner-bottom {
     width: 32.98%;
 }
-.logo span.glyphicon.glyphicon-grain {
+.logo span.glyphicon.glyphicon-tower {
     top: 24%;
     left: 34%;
 }
@@ -1180,7 +1180,7 @@ figure.effect-bubba figcaption::before, figure.effect-bubba figcaption::after {
 .logo a h1 {
     font-size: 5em;
 }
-.logo span.glyphicon.glyphicon-grain {
+.logo span.glyphicon.glyphicon-tower {
     font-size: 3.3em;
 }
 .navbar-default .navbar-nav > li > a {
@@ -1378,7 +1378,7 @@ h3.title {
 .logo a h1 {
     font-size: 4.5em;
 }
-.logo span.glyphicon.glyphicon-grain {
+.logo span.glyphicon.glyphicon-tower {
     top: 23%;
     left: 32%;
 }
@@ -1586,7 +1586,7 @@ a.dropdown-toggle.hvr-bounce-to-bottom.active {
 .logo a h1 {
     font-size: 4em;
 }
-.logo span.glyphicon.glyphicon-grain {
+.logo span.glyphicon.glyphicon-tower {
     top: 23%;
     left: 30%;
     font-size: 2.5em;
@@ -1719,7 +1719,7 @@ button.navbar-toggle {
 .logo a h1 {
     font-size: 3.5em;
 }
-.logo span.glyphicon.glyphicon-grain {
+.logo span.glyphicon.glyphicon-tower {
     top: 25%;
     left: 23%;
     font-size: 2.2em;
