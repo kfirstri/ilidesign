@@ -16,6 +16,10 @@ body{
       font-family: 'Iceland-Regular';
       src: url(../fonts/Iceland-Regular.ttf) format('truetype');
 }
+@font-face {
+      font-family: 'world-of-water';
+      src: url(../fonts/world-of-water.ttf) format('truetype');
+}
 body a{
 	transition: 0.5s all ease;
 	-webkit-transition: 0.5s all ease;
@@ -47,11 +51,10 @@ body a:hover{
 }
 .logo a h1 {
     font-size: 6.5em;
-    font-family: 'Iceland-Regular';
+    font-family: 'world-of-water';
     color: #000;
-    letter-spacing: -5px;
     border-bottom: 9px double #000;
-    line-height: 0.98em;
+    line-height: 1.3em;
 }
 .logo-info {
     position: relative;
