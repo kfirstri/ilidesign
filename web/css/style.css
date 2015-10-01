@@ -6,7 +6,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 --*/
 body{
 	margin:0;
-	font-family: 'Roboto-Regular';
+	font-family: 'Roboto-Regular', 'Arial';
 }
 @font-face {
       font-family: 'Roboto-Regular';
@@ -29,7 +29,7 @@ body a{
 	text-decoration:none;
 }
 h1,h2,h3,h4,h5,h6{
-	margin:0;			   
+	margin:0;
 }
 p{
 	margin:0;
@@ -51,7 +51,7 @@ body a:hover{
 }
 .logo a h1 {
     font-size: 6.5em;
-    font-family: 'world-of-water';
+    font-family: 'world-of-water', 'Arial';
     color: #000;
     border-bottom: 9px double #000;
     line-height: 1.3em;
@@ -174,9 +174,6 @@ ul.dropdown-menu li {
 }
 .navbar-nav > li > .dropdown-menu {
     padding: 0;
-}
-.caret {
-    margin-left: 14px;
 }
 /*--//dropdown--*/
 /*--baner--*/
