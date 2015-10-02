@@ -178,19 +178,19 @@ ul.dropdown-menu li {
 /*--//dropdown--*/
 /*--baner--*/
 .baner {
-    padding: 3em 0 8em;
+    padding: 2em 2em 10em;
 }
 .baner-top ,.baner-bottom {
     padding: 0;
 }
 .baner-top:nth-child(1) {
-    padding-right: 5px;
+    padding-right: 10px;
 }
 .baner-top img {
     width: 100%;
 }
 .baner-row {
-    margin-top: 5px;
+    margin-top: 10px;
 }
 .baner-bottom {
     width: 33.04%;
@@ -337,42 +337,6 @@ figure.effect-bubba:hover p {
 	transform: translate3d(0,0,0);
 }
 /*--//banner--*/
-/*-- news --*/
-.news {
-    background: #F9F2D2;
-    padding: 4em 2em;
-    margin-top: 2em;
-}
-.news-grid-left{
-	background: url(../images/img8.jpg) no-repeat 0px 0px; 
-	background-size: cover;
-	padding: 5em 0;
-}
-.news-grid-middle{
-	background: url(../images/img9.jpg) no-repeat 0px 0px;
-	background-size: cover;
-}
-.news-grid-right{
-	background: url(../images/img10.jpg) no-repeat 0px 0px;
-	background-size: cover;
-}
-.news-grid-left h6 {
-    color: #FFF;
-    font-size: 2.5em;
-    text-align: center;
-}
-.news-grid-left-info h5 {
-    font-size: 1.4em;
-    margin: 1em 0 .5em 0;
-    color: #A7913F;
-}
-.news-grid-left-info p {
-    font-size: 1em;
-    line-height: 1.8em;
-    margin: 0;
-    color:#CCAC16;
-}
-/*--//news --*/
 /*--main--*/
 .main {
     padding: 5em 0;
