@@ -43,17 +43,17 @@ body a:hover{
 }
 /*--header--*/
 .logo {
-    padding: 0.8em 0 3em;
+    padding: 0.5em 0 2em;
     text-align: center;
 }
 .logo a{
 	display:inline-block;
 }
 .logo a h1 {
-    font-size: 6.5em;
+    font-size: 4.5em;
     font-family: 'world-of-water', 'Arial';
     color: #000;
-    border-bottom: 9px double #000;
+    border-bottom: 5px double #5B5B5B;
     line-height: 1.3em;
 }
 .logo-info {
@@ -124,7 +124,7 @@ nav.navbar.navbar-default {
   right: 0;
   bottom: 0;
   color:#fff;
-  background: #84904b;
+  background: #1299CB;
   -webkit-transform: scaleY(0);
   -o-transform: scaleY(0);
   -moz-transform: scaleY(0);
@@ -156,11 +156,11 @@ nav.navbar.navbar-default {
 }
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
     color: #fff;
-    background-color: #84904b;
+    background-color: #1299CB;
 }
 .navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:hover, .navbar-default .navbar-nav > .open > a:focus {
     color: #fff;
-    background-color: #84904B;
+    background-color: #1299CB;
 }
 /*--dropdown--*/
 ul.dropdown-menu li {
@@ -494,7 +494,7 @@ h3.title {
 }
 .copy {
   text-align: center;
-  background:#899452;
+  background: #0D6C91;
   padding:1.5em 0;
 }
 .copy p {
@@ -1037,6 +1037,7 @@ h2.typoh2{
 	border: none;
 	text-indent: 100%;
 	background: url("../images/move-up.png") no-repeat 0px 0px;
+  color: white;
 }
 #toTopHover {
 	width: 32px;
@@ -1064,7 +1065,7 @@ figcaption p {
     width: 32.98%;
 }
 .logo span.glyphicon.glyphicon-tower {
-    top: 24%;
+    top: 20%;
     left: 34%;
 }
 .baner-grids figure figcaption {
